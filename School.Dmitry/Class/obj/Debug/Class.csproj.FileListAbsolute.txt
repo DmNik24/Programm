@@ -1,0 +1,6 @@
+C:\Users\Tip24rus\Documents\Visual Studio 2017\Projects\sc\School.Dmitry\Class\bin\Debug\Class.dll
+C:\Users\Tip24rus\Documents\Visual Studio 2017\Projects\sc\School.Dmitry\Class\bin\Debug\Class.pdb
+C:\Users\Tip24rus\Documents\Visual Studio 2017\Projects\sc\School.Dmitry\Class\obj\Debug\Class.csprojAssemblyReference.cache
+C:\Users\Tip24rus\Documents\Visual Studio 2017\Projects\sc\School.Dmitry\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\Users\Tip24rus\Documents\Visual Studio 2017\Projects\sc\School.Dmitry\Class\obj\Debug\Class.dll
+C:\Users\Tip24rus\Documents\Visual Studio 2017\Projects\sc\School.Dmitry\Class\obj\Debug\Class.pdb

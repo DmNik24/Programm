@@ -1,0 +1,22 @@
+C:\Users\Tip24rus\Documents\Visual Studio 2017\Projects\sc\School.Dmitry\School\bin\Debug\School.exe.config
+C:\Users\Tip24rus\Documents\Visual Studio 2017\Projects\sc\School.Dmitry\School\bin\Debug\School.exe
+C:\Users\Tip24rus\Documents\Visual Studio 2017\Projects\sc\School.Dmitry\School\bin\Debug\School.pdb
+C:\Users\Tip24rus\Documents\Visual Studio 2017\Projects\sc\School.Dmitry\School\bin\Debug\Class.dll
+C:\Users\Tip24rus\Documents\Visual Studio 2017\Projects\sc\School.Dmitry\School\bin\Debug\Logic.dll
+C:\Users\Tip24rus\Documents\Visual Studio 2017\Projects\sc\School.Dmitry\School\bin\Debug\Class.pdb
+C:\Users\Tip24rus\Documents\Visual Studio 2017\Projects\sc\School.Dmitry\School\bin\Debug\Logic.pdb
+C:\Users\Tip24rus\Documents\Visual Studio 2017\Projects\sc\School.Dmitry\School\obj\Debug\School.csprojAssemblyReference.cache
+C:\Users\Tip24rus\Documents\Visual Studio 2017\Projects\sc\School.Dmitry\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+C:\Users\Tip24rus\Documents\Visual Studio 2017\Projects\sc\School.Dmitry\School\obj\Debug\School.csproj.CopyComplete
+C:\Users\Tip24rus\Documents\Visual Studio 2017\Projects\sc\School.Dmitry\School\obj\Debug\School.exe
+C:\Users\Tip24rus\Documents\Visual Studio 2017\Projects\sc\School.Dmitry\School\obj\Debug\School.pdb
+C:\Users\Tip24rus\Desktop\Programm\School.Dmitry\School\bin\Debug\School.exe.config
+C:\Users\Tip24rus\Desktop\Programm\School.Dmitry\School\bin\Debug\School.exe
+C:\Users\Tip24rus\Desktop\Programm\School.Dmitry\School\bin\Debug\School.pdb
+C:\Users\Tip24rus\Desktop\Programm\School.Dmitry\School\bin\Debug\Class.dll
+C:\Users\Tip24rus\Desktop\Programm\School.Dmitry\School\bin\Debug\Class.pdb
+C:\Users\Tip24rus\Desktop\Programm\School.Dmitry\School\obj\Debug\School.csprojAssemblyReference.cache
+C:\Users\Tip24rus\Desktop\Programm\School.Dmitry\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+C:\Users\Tip24rus\Desktop\Programm\School.Dmitry\School\obj\Debug\School.csproj.CopyComplete
+C:\Users\Tip24rus\Desktop\Programm\School.Dmitry\School\obj\Debug\School.exe
+C:\Users\Tip24rus\Desktop\Programm\School.Dmitry\School\obj\Debug\School.pdb
